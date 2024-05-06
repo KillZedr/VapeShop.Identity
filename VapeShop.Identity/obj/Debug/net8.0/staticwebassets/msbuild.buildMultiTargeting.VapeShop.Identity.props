@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VapeShop.Identity.props" />
+</Project>
